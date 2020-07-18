@@ -1,4 +1,4 @@
-
+// esta es  version de prueba
 import random
 import collections
 PALOS =['espada ', 'corazon', 'rombo' , 'trebol']
